@@ -1,0 +1,9 @@
+*.sqlite
+*.pyc
+__pycache__
+.idea
+*.pid
+secret
+.DS_Store
+dist
+*.egg-info
